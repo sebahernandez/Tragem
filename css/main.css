@@ -17,6 +17,10 @@
         font-family: Arial, Helvetica, sans-serif;
     }
     
+    .btn-danger{
+
+        cursor: pointer;
+    }
 
     .front{
 
