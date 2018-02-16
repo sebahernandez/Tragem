@@ -1,10 +1,5 @@
    
 
-    img.carousel-item{
-        width: 800px;
-        height:400px;
-    }
-    
     
     
     h2{
@@ -264,4 +259,11 @@
     color: #232323;
     font-weight: 600;
     margin-bottom: 10px;
+}
+
+/* Adaptación galeria bootstrap */
+
+.carousel-item{
+    height: 300px;
+    width: 100%;
 }
