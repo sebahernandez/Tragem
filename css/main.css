@@ -1,5 +1,12 @@
    
 
+    img.carousel{
+        width: 800px;
+        height:400px;
+    }
+    
+    
+    
     h2{
         font-size: 3rem;
         font-family: Arial, Helvetica, sans-serif;
