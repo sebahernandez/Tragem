@@ -1,6 +1,6 @@
    
 
-    img.carousel{
+    img.carousel-item{
         width: 800px;
         height:400px;
     }
@@ -203,7 +203,6 @@
         background: #CEFF00;
         color: black;
         padding:20px;
-        width: 20%;
         text-align:end;
     }
 
