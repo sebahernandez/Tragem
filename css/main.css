@@ -197,8 +197,10 @@
     .valor{
         background: #CEFF00;
         color: black;
-        padding:20px;
-        text-align:end;
+        padding: 10px;
+        width: 24%;
+        text-align: end;
+        float: right
     }
 
     .direccion{
