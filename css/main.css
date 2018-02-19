@@ -276,3 +276,7 @@
     height: 300px;
     width: 100%;
 }
+/* background menu móvil (icono) */
+.navbar-light .navbar-toggler-icon{
+    background: none;
+}
