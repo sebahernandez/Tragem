@@ -48,8 +48,8 @@
     <div class="row mt-5">
       <div class="text-xs-center" style="color: #fff; background-color: #f05234; min-height: 100px; padding: 65px; text-align:center">
         <p class="lead" style="font-size: 1.8rem;">
-          Porque sabemos que encontrar tu casa ideal no es fácil,  Te ayudamos con las mejores propuestas del mercado inmobiliario.
-          Somos tu mejor alternativa de la zona. Arrienda,  Vende, y  publica con nosotros.
+          Porque sabemos que encontrar tu casa ideal no es fácil <br>  Te ayudamos con las mejores propuestas del mercado inmobiliario.
+          Somos tu mejor alternativa de la zona.<br> Arrienda,  Vende, y  publica con nosotros.
         </p>
       </div>
     </div>
